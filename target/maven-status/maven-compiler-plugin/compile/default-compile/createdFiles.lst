@@ -1,0 +1,9 @@
+com/inmemory/email/model/UserToCheck.class
+com/inmemory/email/EmailHandler.class
+com/inmemory/email/exception/VirtualMemeoriesException.class
+com/inmemory/email/services/EmailService$1.class
+com/inmemory/email/SendEmailHandler.class
+com/inmemory/email/services/EmailService$2.class
+com/inmemory/email/utils/HibernateUtils.class
+com/inmemory/email/services/EmailService.class
+com/inmemory/email/services/EmailSenderSES.class

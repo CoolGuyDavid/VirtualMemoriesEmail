@@ -1,0 +1,7 @@
+/Users/davidwise/eclipse-workspace/inmemory-email/src/main/java/com/inmemory/email/EmailHandler.java
+/Users/davidwise/eclipse-workspace/inmemory-email/src/main/java/com/inmemory/email/SendEmailHandler.java
+/Users/davidwise/eclipse-workspace/inmemory-email/src/main/java/com/inmemory/email/services/EmailSenderSES.java
+/Users/davidwise/eclipse-workspace/inmemory-email/src/main/java/com/inmemory/email/services/EmailService.java
+/Users/davidwise/eclipse-workspace/inmemory-email/src/main/java/com/inmemory/email/exception/VirtualMemeoriesException.java
+/Users/davidwise/eclipse-workspace/inmemory-email/src/main/java/com/inmemory/email/model/UserToCheck.java
+/Users/davidwise/eclipse-workspace/inmemory-email/src/main/java/com/inmemory/email/utils/HibernateUtils.java
